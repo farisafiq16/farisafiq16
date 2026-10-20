@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Faris Afiq 👋
 
-<!--
-**farisafiq16/farisafiq16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently learning version control, open-source development, and building cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 **Currently working on:** Learning GitHub and Markdown basics
+- 🌱 **Currently learning:** [Python, JavaScript, HTML/CSS]
+- 🎯 **Goals:** Build full-stack projects and contribute to open-source
+- 💬 **Ask me about:** [web development, tech, hobbies]
+- 📫 **How to reach me:** [farisafiq@graduate.utm.my]
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
