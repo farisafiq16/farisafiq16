@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I'm currently learning version control, open-sourc
 
 ### 📈 GitHub Stats
 
-![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisafiq16&show_icons=true&theme=radial)
